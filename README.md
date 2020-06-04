@@ -5,4 +5,4 @@
   <li>hmmlearn (for HMM)</li>
  </ol>
 
-<p>Android project:<a href="https://github.com/agungkurn/MeTalkTalk"/></p>
+<p>Android project:<a href="https://github.com/agungkurn/MeTalkTalk"/>MeTalkTalk</p>
